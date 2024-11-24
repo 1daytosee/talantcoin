@@ -1,0 +1,7 @@
+aiohttp
+base58
+cryptography
+fastapi
+pydantic
+pynacl
+uvicorn

@@ -1,0 +1,2 @@
+[console_scripts]
+talantchain = talantchain.cli:main
