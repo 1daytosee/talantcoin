@@ -1,6 +1,7 @@
-# TalantChain (Tcn) - Advanced Cryptocurrency Mining Pool System
 
-![TalantChain Logo](docs/logo.png)
+# TalantChain (Talantcoin) - Advanced Cryptocurrency Mining Pool System
+
+![TalantChain Logo](https://github.com/user-attachments/assets/90938d10-1020-4525-b355-6a7dc11c936e)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/downloads/)
