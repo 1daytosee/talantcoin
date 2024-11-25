@@ -1,4 +1,4 @@
-# TalantChain (Tcn) - Advanced Cryptocurrency Mining Pool System
+# Tallantcoin (tallantchain) 
 
 ![TalantChain Logo](https://github.com/user-attachments/assets/9c1dd03d-cc4e-48ee-a394-471c165e519d)
 
