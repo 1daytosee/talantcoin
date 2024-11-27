@@ -42,8 +42,8 @@ TalantChain is a comprehensive cryptocurrency mining system featuring an advance
 ### Linux Installation
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/talantchainpy.git
-cd talantchainpy
+git clone https://github.com/1daytosee/talantcoin.git
+cd talantcoin
 
 # Install dependencies
 python3 -m pip install -r requirements.txt
@@ -57,8 +57,8 @@ python3 -m talantchain.cli start
 # Install Python 3.8+ from python.org
 
 # Clone repository
-git clone https://github.com/yourusername/talantchainpy.git
-cd talantchainpy
+git clone https://github.com/1daytosee/talantcoin.git
+cd talantcoin
 
 # Install dependencies
 pip install -r requirements.txt
@@ -76,8 +76,8 @@ python -m talantchain.cli start
 brew install python3
 
 # Clone repository
-git clone https://github.com/yourusername/talantchainpy.git
-cd talantchainpy
+git clone https://github.com/1daytosee/talantcoin.git
+cd talantcoin
 
 # Install dependencies
 python3 -m pip install -r requirements.txt
@@ -94,8 +94,8 @@ pkg update && pkg upgrade -y
 pkg install python git -y
 
 # Clone repository
-git clone https://github.com/yourusername/talantchainpy.git
-cd talantchainpy
+git clone https://github.com/1daytosee/talantcoin.git
+cd talantcoin
 
 # Run setup script
 chmod +x termux_setup.sh
